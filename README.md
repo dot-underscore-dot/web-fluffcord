@@ -1,5 +1,5 @@
 # web-fluffcord
-The unofficial fluffcord website!
+The official unofficial fluffcord website!
 
 http://fluffcord.com
 
